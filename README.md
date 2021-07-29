@@ -17,7 +17,8 @@ After analyzing the Pyber data to determine fare and driver data for the 3 city 
 
 * Fares are relatively consistent per city type by week through the months of January-April, there are no remarkable peaks of activity for this time period
 
-![PyBer_summary](https://user-images.githubusercontent.com/82191831/127427948-39cb657a-5d1e-4715-b41b-188bec179bb7.png)
+![PyBer_fare_summary](https://user-images.githubusercontent.com/82191831/127430293-7fa54aaf-35c0-4220-a936-f34885f08d39.png)
+
 
 
 ## Summary
